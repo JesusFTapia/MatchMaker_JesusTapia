@@ -1,7 +1,7 @@
 const NACIONALIDADES_ACEPTADAS = [
     {key: 'AU', name: "Australia"},
     {key: 'BR', name: "Brasil"},
-    {key: 'CA', name: "Canadá"},
+    {key: 'CA', name: "Canada"},
     {key: 'CH', name: "Suiza"},
     {key: 'DE', name: "Alemania"},
     {key: 'DK', name: "Dinamarca"},
